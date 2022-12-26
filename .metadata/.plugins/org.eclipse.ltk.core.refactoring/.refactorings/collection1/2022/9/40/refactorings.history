@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;arrayListTask&apos; to &apos;collection/src&apos;&#x0D;&#x0A;- Original project: &apos;collection1&apos;&#x0D;&#x0A;- Destination element: &apos;collection/src&apos;&#x0D;&#x0A;- Original element: &apos;collection1/src/arrayListTask&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=collection/src" element1="/src&lt;arrayListTask" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1664084063527" version="1.0"/>
+</session>
